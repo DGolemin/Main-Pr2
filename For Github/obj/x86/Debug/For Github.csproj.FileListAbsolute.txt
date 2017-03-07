@@ -1,0 +1,15 @@
+C:\Users\Den\AppData\Local\Temporary Projects\For Github\bin\Debug\For Github.exe
+C:\Users\Den\AppData\Local\Temporary Projects\For Github\bin\Debug\For Github.pdb
+C:\Users\Den\AppData\Local\Temporary Projects\For Github\obj\x86\Debug\For_Github.Form1.resources
+C:\Users\Den\AppData\Local\Temporary Projects\For Github\obj\x86\Debug\For_Github.Properties.Resources.resources
+C:\Users\Den\AppData\Local\Temporary Projects\For Github\obj\x86\Debug\For Github.csproj.GenerateResource.Cache
+C:\Users\Den\AppData\Local\Temporary Projects\For Github\obj\x86\Debug\For Github.exe
+C:\Users\Den\AppData\Local\Temporary Projects\For Github\obj\x86\Debug\For Github.pdb
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\obj\x86\Debug\For Github.exe
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\obj\x86\Debug\For Github.pdb
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\bin\Debug\For Github.exe
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\bin\Debug\For Github.pdb
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\obj\x86\Debug\For_Github.Form1.resources
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\obj\x86\Debug\For_Github.Properties.Resources.resources
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\obj\x86\Debug\For Github.csproj.GenerateResource.Cache
+C:\Users\Den\documents\visual studio 2010\Projects\For Github\For Github\obj\x86\Debug\For_Github.Form2.resources
